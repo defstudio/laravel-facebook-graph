@@ -1,5 +1,5 @@
 {
-    "name": "joelbutcher/laravel-facebook-graph",
+    "name": "defstudio/laravel-facebook-graph",
     "description": "Laravel wrapper for the Facebook Graph SDK for PHP 7.4 and PHP 8.",
     "keywords": [
         "laravel",
